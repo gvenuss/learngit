@@ -1,2 +1,4 @@
 print('hello world')
 print('hello world too')
+print('This is a new line added to the file.')
+print('Another line for testing purposes.')
